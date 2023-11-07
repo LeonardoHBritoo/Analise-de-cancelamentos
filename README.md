@@ -1,2 +1,2 @@
 # Analise-de-cancelamentos
- Entendendo o motivo dos cliêntes cancelarem.
+Muitas empresas utilizam o modelo de negócios baseado em assinaturas e para conseguir melhorar o lucro precisam entender o comportamento dos clientes.
